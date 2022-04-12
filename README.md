@@ -14,4 +14,4 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-address contract : 0x613e0049099E7781E781f8FFD2Cf2A6d6fFAfce4
+link Token etherscan: https://rinkeby.etherscan.io/address/0x613e0049099E7781E781f8FFD2Cf2A6d6fFAfce4#code
